@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 /**
  *
- * @author carmitnaor
+ * @author Danielnaor
  */
 public class Daily_Coding_Problem_Problem2 {
 
